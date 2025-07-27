@@ -25,11 +25,11 @@ Built purely with **HTML & CSS**
 ## 🌟 **Preview**  
 <div style="display: flex; gap: 10px; text-align: center;">
   <div>
-    <img src="URL_1" width="350" />
+    <img width="350" alt="Screenshot 2025-07-27 110724" src="https://github.com/user-attachments/assets/97438520-fc47-4790-ac48-3ecb5d98cc15" />
     <p><em>Before scrolling</em></p>
   </div>
   <div>
-    <img src="URL_2" width="350" />
+    <img width="350" alt="Screenshot 2025-07-27 110753" src="https://github.com/user-attachments/assets/a90749c7-3796-4d9b-823a-099eefc6959b" />
     <p><em>After scrolling</em></p>
   </div>
 </div>
@@ -44,8 +44,7 @@ Built purely with **HTML & CSS**
 
 
 ## 🌐 **Live Demo**  
-🔗 *[Check it out here!](#)* *(Add your GitHub Pages link later!)*  
-
+https://nickaghadiany.github.io/parallax-css/
 ---
 
 ## 👨‍💻 **Developer**  
